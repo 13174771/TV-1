@@ -29,7 +29,7 @@
             "name": "道长"
         },
         {
-            "url": "/07.json",
+            "url": "https://raw.iqiq.io//123linyao123/TV/main/07.json",
             "name": "资源"
         },
         {
@@ -93,7 +93,7 @@
             "name": "ImABC"
         },
         {
-            "url": "https://神器每日推送.tk/pz.json",
+            "url": "https://raw.iqiq.io//123linyao123/TV/main/R18.json",
             "name": "神器每日推送"
         }
     ]
