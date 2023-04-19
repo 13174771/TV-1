@@ -29,8 +29,8 @@
             "name": "道长"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫"
+            "url": "/07.json",
+            "name": "资源"
         },
         {
             "url": "http://drpy.site/js1",
