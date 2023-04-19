@@ -90,4 +90,6 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 `https://purge.jsdelivr.net/gh/`  
 
 ------
+搜集一些TV频道等信息, 方便使用.
 
+记得添加的时候, 使用raw地址, 别傻乎乎的把github整个库的地址放进去. 这个问题我不希望再有人问我了....
