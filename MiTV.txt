@@ -54,6 +54,100 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+🍌｜新闻,#genre#
+
+華麗(翡翠)台,http://2022.stream-link.org/live/272717429
+八度空間,http://2022.stream-link.org/live/1759844466
+翡翠台,http://2022.stream-link.org/live/1008470469
+J2,http://2022.stream-link.org/live/47349357
+無綫新聞台,http://2022.stream-link.org/live/1511624341
+無綫財經·體育·資訊台,http://2022.stream-link.org/live/1652644142
+港台电视31,http://2022.stream-link.org/live/1907172462
+港台电视32,http://2022.stream-link.org/live/2012355985
+有線新聞台,http://2022.stream-link.org/live/954568378
+有線財經資訊台,http://2022.stream-link.org/live/470396193
+香港開電視,http://2022.stream-link.org/live/2067048623
+香港開電視資訊台,http://2022.stream-link.org/live/1288486992
+香港國際財經台,http://2022.stream-link.org/live/88795256
+鳳凰資訊台,http://2022.stream-link.org/live/433059615
+鳳凰中文台,http://2022.stream-link.org/live/58079722
+東森新聞,http://2023.stream-link.org/live/256467434
+東森財經新聞,http://2023.stream-link.org/live/1562729921
+華視新聞,http://2023.stream-link.org/live/924948281
+中天新聞,http://2023.stream-link.org/live/2072341054
+中視新聞,http://2023.stream-link.org/live/926790469
+民視新聞,http://2023.stream-link.org/live/1536981751
+寰宇國際新聞,http://2023.stream-link.org/live/187458082
+寰宇台灣新聞,http://2023.stream-link.org/live/1666533776
+三立財經新聞,http://2023.stream-link.org/live/2044630364
+三立新聞,http://2023.stream-link.org/live/779328641
+三立新聞+,http://2023.stream-link.org/live/2068259502
+台視新聞,http://2023.stream-link.org/live/1660463420
+TVBS新聞,http://2023.stream-link.org/live/2051588601
+TVBS財經,http://2023.stream-link.org/live/1767909787
+中天綜合台,http://2023.stream-link.org/live/661595652
+中天亞洲台,http://2023.stream-link.org/live/1133505187
+台視,http://2023.stream-link.org/live/1558743392
+天才衝衝衝,http://2023.stream-link.org/live/623892102
+東森yoyo,http://2023.stream-link.org/live/638555913
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
+TVBS新聞,rtmp://219.80.97.77/sat/tv551
+TVBS新聞,rtmp://119.81.124.89/sat/tv551
+東森財經,rtmp://119.81.124.89/sat/tv571
+東森財經,http://123.51.230.108:18515/.m3u8
+FOX新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+民視,rtmp://119.81.124.89/sat/tv051
+台視,rtmp://119.81.124.89/sat/tv071
+中視,rtmp://119.81.124.89/sat/tv091
+華視,rtmp://119.81.124.89/sat/tv111
+TVBS新聞,rtmp://119.81.124.89/sat/tv551
+TVBS歡樂,rtmp://119.81.124.89/sat/tv421
+東森財經新聞,rtmp://119.81.124.89/sat/tv571
+緯來育樂,rtmp://119.81.124.89/sat/tv701
+緯來體育,rtmp://119.81.124.89/sat/tv721
+ELEVEN1,rtmp://119.81.124.89/sat/tv731
+ELEVEN2,rtmp://119.81.124.89/sat/tv741
+MOMO綜合,rtmp://119.81.124.89/sat/tv761
+緯來日本,rtmp://119.81.124.89/sat/tv771
+ELTA體育1,rtmp://119.81.124.89/sat/md031
+ELEVEN2,rtmp://119.81.124.89/sat/md041
+博斯魅力,rtmp://119.81.124.89/sat/md051
+民視,rtmp://219.80.97.77/sat/tv051
+台視,rtmp://219.80.97.77/sat/tv071
+中視,rtmp://219.80.97.77/sat/tv091
+華視,rtmp://219.80.97.77/sat/tv111
+TVBS新聞,rtmp://219.80.97.77/sat/tv551
+TVBS歡樂,rtmp://219.80.97.77/sat/tv421
+東森財經新聞,rtmp://219.80.97.77/sat/tv571
+緯來育樂,rtmp://219.80.97.77/sat/tv701
+緯來體育,rtmp://219.80.97.77/sat/tv721
+ELEVEN1,rtmp://219.80.97.77/sat/tv731
+ELEVEN2,rtmp://219.80.97.77/sat/tv741
+MOMO綜合,rtmp://219.80.97.77/sat/tv761
+緯來日本,rtmp://219.80.97.77/sat/tv771
+ELTA體育1,rtmp://219.80.97.77/sat/md031
+ELEVEN2,rtmp://219.80.97.77/sat/md041
+博斯魅力,rtmp://219.80.97.77/sat/md051
+ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
+好消息,http://123.51.230.108:18507/.m3u8
+緯來體育,http://123.51.230.108:18509/.m3u8
+龍華戲劇,http://123.51.230.108:18513/.m3u8
+東森財經,http://123.51.230.108:18515/.m3u8
+NHK,http://123.51.230.108:18525/.m3u8
+東森戲劇,http://123.51.230.108:18538/.m3u8
+八大第一,http://123.51.230.108:18539/.m3u8
+緯來綜合,http://123.51.230.108:18540/.m3u8
+緯來育樂,http://123.51.230.108:18541/.m3u8
+台視,http://123.51.230.108:18543/.m3u8
+龍華日韓,http://123.51.230.108:18551/.m3u8
+東風37,http://123.51.230.108:18560/.m3u8
+人間衛視,http://123.51.230.108:18561/.m3u8
+大愛,http://123.51.230.108:18567/.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
+
 🎈央视直播,#genre#
 CCTV-1 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -1109,8 +1203,58 @@ CHC电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=
 汕尾新闻综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb
 
 
-
-成人頻道,#genre#
+🍌｜香蕉,#genre#
+彩虹e台,mitv://generationnexxxt.com:19806/a4300561216446a19f5961ee3ef2a86b
+彩虹电影台,mitv://generationnexxxt.com:19806/dcca7a3ec8544bc99a653ed5e197166f
+LOOK TV,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/b00cc08302d742cf90f8934c6aff4922
+惊艳成人电影台,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
+松视1台,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
+松视2台,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
+PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
+香蕉台,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
+松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
+JStar极限台,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
+HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
+K,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
+彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
+彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
+13HOLE,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/107276.m3u8
+13BRAZZERSEURO,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/50117.m3u8
+13GOLDPENHOUSE*,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12039.m3u8
+13PASSIEXXX,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12048.m3u8
+13PORNBOX,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/107277.m3u8
+13REDLIGHT*,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12049.m3u8
+13BRAZZERS*,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12051.m3u8
+13VOETBAL,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12052.m3u8
+13SELECT,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/12053.m3u8
+13N1ADULT,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172360.m3u8
+13N1ADULT3,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172362.m3u8
+13NIADULT2,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172361.m3u8
+13N1ADULT4CZEECHSTREET,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172363.m3u8
+13N1ADULTCOLLEGERULES,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172364.m3u8
+13N1ADULTYOUNGLEGALPORN,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172365.m3u8
+131,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172366.m3u8
+132,http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/172367.m3u8
+13XXX|REDTRAFFIC2,http://megaott.cx:80/t12mgxy282/556175751453161/377738
+13XXX|REDTRAFFIC1,http://megaott.cx:80/t12mgxy282/556175751453161/377730
+13XXX|REDTRAFFIC3,http://megaott.cx:80/t12mgxy282/556175751453161/377739
+13XXX|REDTRAFFIC4,http://megaott.cx:80/t12mgxy282/556175751453161/377740
+13XXX|REDTRAFFIC5,http://megaott.cx:80/t12mgxy282/556175751453161/377741
+13XXX|REDTRAFFIC6,http://megaott.cx:80/t12mgxy282/556175751453161/377742
+13XXX|REDTRAFFIC8,http://megaott.cx:80/t12mgxy282/556175751453161/377744
+13XXX|REDTRAFFIC10,http://megaott.cx:80/t12mgxy282/556175751453161/377731
+13XXX|REDTRAFFIC11,http://megaott.cx:80/t12mgxy282/556175751453161/377732
+13XXX|REDTRAFFIC12,http://megaott.cx:80/t12mgxy282/556175751453161/377733
+13XXX|REDTRAFFIC13,http://megaott.cx:80/t12mgxy282/556175751453161/377734
+13XXX|REDTRAFFIC14,http://megaott.cx:80/t12mgxy282/556175751453161/377735
+13XXX|REDTRAFFIC16,http://megaott.cx:80/t12mgxy282/556175751453161/377737
+13XXX|REDTRAFFIC15,http://megaott.cx:80/t12mgxy282/556175751453161/377736
+13XXX|VERIFIEDAMATEURS:TINNAANGEL,http://megaott.cx:80/t12mgxy282/556175751453161/400241876
+13XXX|VERIFIEDAMATEURS:SWEETBUNNY,http://megaott.cx:80/t12mgxy282/556175751453161/400240420
+13XXX|VERIFIEDAMATEURS:SECRETCRUSH,http://megaott.cx:80/t12mgxy282/556175751453161/400240416
+13XXX|VERIFIEDAMATEURS:REISLIN,http://megaott.cx:80/t12mgxy282/556175751453161/400240415
+13XXX|VERIFIEDAMATEURS:FIAMURR,http://megaott.cx:80/t12mgxy282/556175751453161/400240392
 
 精品推荐,#genre#
 美乳首ビン！アクメ中に爆走ピストン カメラ目線でイクイク中出し,https://vip2.slbfsl.com/20230420/2J8847EC/index.m3u8
@@ -7106,73 +7250,6 @@ DYTM008抖音旅行射第8期贵州侗族民族风,https://t11.cdn2020.com:12336
 月球🌜频道,#genre#
 
 
-歐美成人直播室116,https://cors.deno.dev/http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-歐美成人直播室117,https://cors.deno.dev/http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
-K频道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/cuckold.m3u8
-时尚频道,https://cors.deno.dev/http://juyunlive.juyun.tv/live/24950198.m3u8
-松视1欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/interracial.m3u8
-俄罗斯成人4台,https://cors.deno.dev/http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-一本道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigass.m3u8
-粉红台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/teen.m3u8
-俄罗斯成人5台,https://cors.deno.dev/http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-香蕉台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/milf.m3u8
-香蕉台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/milf.m3u8
-松视1欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/fetish.m3u8
-玩美台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/pov.m3u8
-香蕉台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/milf.m3u8
-玩美台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/blowjob.m3u8
-俄罗斯成人5台,https://cors.deno.dev/http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-俄罗斯成人2台,https://cors.deno.dev/http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-松视3欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigdick.m3u8
-惊艳台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/hardcore.m3u8
-松视2欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigtits.m3u8
-K频道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/threesome.m3u8
-粉红台欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/teen.m3u8
-潘多拉欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/pornstar.m3u8
-欧美5,https://cors.deno.dev/http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-松视2欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigtits.m3u8
-一本道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigass.m3u8
-俄罗斯成人3台,https://cors.deno.dev/http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-松视4欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigdick.m3u8
-松视2欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/interracial.m3u8
-松视1欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/fetish.m3u8
-欧美8,https://cors.deno.dev/http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-潘多拉欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/pornstar.m3u8
-松视3欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigdick.m3u8
-k频道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/threesome.m3u8
-二本道欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/blowjob.m3u8
-松视3欧美版,https://cors.deno.dev/http://live.redtraffic.xyz:80/bigtits.m3u8
-俄罗斯成人1台,https://cors.deno.dev/http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-欧美12,https://cors.deno.dev/http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-欧美2,https://cors.deno.dev/http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-AdultIPTV.net Live Cams,https://cors.deno.dev/http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,https://cors.deno.dev/http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net Big Dick,https://cors.deno.dev/http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits,https://cors.deno.dev/http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Fetish,https://cors.deno.dev/http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Big Ass,https://cors.deno.dev/http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Interracial,https://cors.deno.dev/http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina,https://cors.deno.dev/http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net POV,https://cors.deno.dev/http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net Blowjob,https://cors.deno.dev/http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Teen,https://cors.deno.dev/http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Hardcore,https://cors.deno.dev/http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Cuckold,https://cors.deno.dev/http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Threesome,https://cors.deno.dev/http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Russian,https://cors.deno.dev/http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Lesbian,https://cors.deno.dev/http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Rough,https://cors.deno.dev/http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Gangbang,https://cors.deno.dev/http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Compilation,https://cors.deno.dev/http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Brunette,https://cors.deno.dev/http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Blonde,https://cors.deno.dev/http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Gay,https://cors.deno.dev/http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Anal,https://cors.deno.dev/http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Asian,https://cors.deno.dev/http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Pornstar,https://cors.deno.dev/http://cdn.adultiptv.net/pornstar.m3u8
 優木もなみ,https://epg.pm/stream/abf8da16ad0c08346c2ec5232c659cdd9e2add4d2ea0cc940f28419c43e022bf.m3u8
 上原亜衣,https://epg.pm/stream/5863041aae76cffb8c924e24731e1adba539d7030b8e520bae846009454a6c42.m3u8
 秋場莉緒,https://epg.pm/stream/05ec0746b1976b0f79a31e455467f1a6ab6f67f05969879b822f9cb55b52a2eb.m3u8
@@ -7584,7 +7661,7 @@ VPN欧美高清Penthouse Quickies 1300k,http://21929815.rossteleccom.net/iptv/KB
 11879,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/7024.mp4
 11880,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/3.mp4
 
-🍌｜小蕉,#genre#
+
 
 
 
