@@ -1903,31 +1903,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 大学的幸福生活,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
 
 
-【中文无码】_9527,#genre#
-031515-828 上原亚衣初次下马无套内射,https://v.didivod.com/20220715/kVw2VQKy/index.m3u8
-CWPBD-53 キャットウォーク ポイズン 53 : 片桐えりりか,https://v.didivod.com/20220817/vjOcbzJ5/index.m3u8
-N0504 女子アナ凹カン强制种付孕汁,https://v.didivod.com/20220817/E0grxNQb/index.m3u8
-SKYHD-011 スカイエンジェル ブルー Vol.11,https://v.didivod.com/20220817/OdusJvIB/index.m3u8
-N1187 人体固定中出钢棒-中村志保,https://v.didivod.com/20220817/JlAS4nXu/index.m3u8
-HEYZO 1759 捆绑高潮！ – 梦咲かのん,https://v.didivod.com/20220817/0dEtvh0F/index.m3u8
-LAF-08 ラフォーレガールVol.8 : 立川理恵,https://v.didivod.com/20220817/KvsGAD6K/index.m3u8
-091118-749 091118-749 高潮不断停不下来！ ～持续痉挛淫肉体～ 沙藤由梨,https://v.didivod.com/20220817/cHmfkJXv/index.m3u8
-加勒比 101015-993 渐渐被干坏的寡妇宫崎爱莉,https://v.didivod.com/20220817/iEa8XRhW/index.m3u8
-一本道 060916_313 餐馆的女员工被同事们中出调教 雾生ゆきな,https://v.didivod.com/20220817/Fnmgqp2H/index.m3u8
-MKD-S91 KIRARI 91 人妻不伦温泉 : 水野葵,https://v.didivod.com/20220817/iaOGRbxL/index.m3u8
-CWP-31 鲜红鲍鱼美眉的进击性爱挑战,https://v.didivod.com/20220817/IDKV7VAP/index.m3u8
-072018 716 美绪のHなデートを公开 大空美绪,https://v.didivod.com/20220817/RNEnZQHZ/index.m3u8
-天然むすめ 100618_01 素人初撮り！わたしヤリマンです 根元えりな,https://v.didivod.com/20220817/43OwMDR8/index.m3u8
-SMD-95 S Model 95 性感模特的波涛汹涌 尾上若叶,https://v.didivod.com/20220817/McGWUBPr/index.m3u8
-HEYZO-1897 混血巨乳风俗美女仲村纱梨的服务,https://v.didivod.com/20220817/oRaM5dEn/index.m3u8
-DRG-15 ときめき 私だけムラムラさせないで : 北条麻妃,https://v.didivod.com/20220817/iuppqoGA/index.m3u8
-Carib 110218-784 仲村さり くわえたい冲动のエロカワ美女 〜喉奥いっぱいぶち込んでください〜,https://v.didivod.com/20220817/2FEgrAkk/index.m3u8
-一道本110709_708 狂野美女LUNA的无码出道作,https://v.didivod.com/20220817/aauVbk9F/index.m3u8
-一本道.1Pondo.100616 上原亜衣〜本気スペシャル〜,https://v.didivod.com/20220817/YbbuEWgp/index.m3u8
-加勒比 082110-460 狂野俏佳人的激情性爱LUNA,https://v.didivod.com/20220817/yVIeYIfC/index.m3u8
-102518_760 一根肉棒不能满足！ 东山実,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
-KIRARI 90 榨干你三次还不罢休的极上无毛女优Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
-HEYZO 1530 我的肉穴狂洩不止～床上的大洪水～ – 橘优奈,https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
+
 【日本AV】_9527,#genre#
 性感按摩师,https://fc.imgscloud.com/e/cmmcpqeiqt/cmmcpqeiqt.m3u8
 小林初花,https://fc.imgscloud.com/e/gadthdaocc/gadthdaocc.m3u8
@@ -2559,55 +2535,7 @@ MOM金發碧眼的辦公室老闆很高興她在辦公室初中時被丈夫欺�
 這是我的聚會，http://12156.vod.adultiptv.net/ph55de7a932b9c7/play.m3u8
  繼妹塞拉（Sierra Nicole）在哥哥的洗衣機頂部獲得奶油派！,http://10238.vod.redtraffic.xyz/ph5a5cf135d7642/play.m3u8
 
-【小红帽直播】_9527,#genre#
-人类高质量玩家,http://cxc.xnpjifd.cn/live/cx_360131.flv
-夜夜淫歌,http://ufo.qxiaolei.top/live/cx_359060.flv
-淫多多,http://l2.iiun666.cn/live/cx_11694.flv
-淫女集中营,http://awnda.dianfenglanqiu.cn/live/cx_358563.flv#http://pull.58hsjf.com/live/cx_8433.flv
-小骚哥操逼,http://l4.iiun666.cn/live/cx_15445.flv
-混血美少女战士,http://l4.iiun666.cn/live/cx_14954.flv#http://san.shengshuishi.cn/live/cx_12577.flv
-大大大洋马,http://bter.widtb.cn/live/cx_2563.flv#http://add.shiqing01.top/live/cx_353150.flv
-激情少妇,http://awnda.dianfenglanqiu.cn/live/cx_360148.flv
-冰淇淋女孩,http://ufo.qxiaolei.top/live/cx_360406.flv#http://awnda.dianfenglanqiu.cn/live/cx_360406.flv#http://pull.ylsmdongganfen.com/live/cx_7491.flv
-狐狸不是妖,http://l4.iiun666.cn/live/cx_14674.flv
-泰国鸡鸭鹅啪秀@,http://02b.expo-hf.com/live/cx_349418.flv
-是可可宝贝,http://l5.iiun666.cn/live/cx_16176.flv
-玩嫂子@,http://pull.2shoumi.com/live/cx_9622.flv
-sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
-情趣小姐姐,http://lhuan.huahai58.com/live/cx_361300.flv
-东南亚黄学院,http://ofe.mmsxjs.cn/live/cx_359578.flv
-东南亚美女团,http://01b.expo-hf.com/live/cx_358601.flv
-日式小奶瓶,http://l5.iiun666.cn/live/cx_15520.flv
-哥哥干我,http://sck.ecsawq.cn/live/cx_361757.flv
-萝莉十八岁@,http://l5.iiun666.cn/live/cx_15643.flv
-勾搭专业户@,http://lhuan.huahai58.com/live/cx_361211.flv
-小妹妹水多,http://pull.58hsjf.com/live/cx_7682.flv
-淫不停@,http://01b.expo-hf.com/live/cx_357552.flv#http://la.dn8rg.cn/live/cx_9960.flv
-十八岁妲己,http://l4.iiun666.cn/live/cx_14947.flv
-金发碧眼大长腿,http://lhuan.huahai58.com/live/cx_358843.flv
-婷婷想要,http://la.dn8rg.cn/live/cx_9079.flv
-泰国成人大秀,http://l2.iiun666.cn/live/cx_963.flv
-风情万种,http://pull.2shoumi.com/live/cx_11115.flv
-四只小母狗,http://lhuan.huahai58.com/live/cx_359982.flv#http://sck.ecsawq.cn/live/cx_359982.flv
-小美子,http://pull.58hsjf.com/live/cx_10026.flv
-南巷污女,http://bter.widtb.cn/live/cx_9336.flv
-少女初恋日记,http://lhuan.huahai58.com/live/cx_361207.flv
-骚骚小猫,http://04b.expo-hf.com/live/cx_356672.flv
-一只小野猫,http://san.shengshuishi.cn/live/cx_12640.flv#http://crg.yybt.top/live/cx_12640.flv
-淫领全球,http://san.shengshuishi.cn/live/cx_11340.flv#http://crg.yybt.top/live/cx_11340.flv
-日式小污女,http://add.shiqing01.top/live/cx_360927.flv
-为爱妲己,http://add.shiqing01.top/live/cx_360289.flv
-午夜带你上高速,http://awnda.dianfenglanqiu.cn/live/cx_361610.flv
-东南亚黄学院,http://ufo.qxiaolei.top/live/cx_359578.flv
-有点小任性,http://l2.iiun666.cn/live/cx_15626.flv
-小泽玛利亚,http://ufo.qxiaolei.top/live/cx_360514.flv
-婷婷很风流,http://bter.widtb.cn/live/cx_1377.flv
-云朵上的棉花糖,http://la.dn8rg.cn/live/cx_13177.flv
-西班牙骚逼@,http://02b.expo-hf.com/live/cx_358407.flv
-高质量美女团,http://l3.iiun666.cn/live/cx_15583.flv
-柠檬苏打水,http://l1.iiun666.cn/live/cx_11076.flv
-红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
-大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
+
 
 🎎｜VIP高清秒播_9527,#genre#
 果冻传媒租房交易-刘玥,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4c4fd782/index.m3u8
@@ -5786,158 +5714,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 
 杂交品种_9527,#genre#
 
-彩虹e,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
-彩虹电影,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
-Look TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
-惊艳,p3p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b
-香蕉,p3p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3
-潘多拉完美,p3p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6
-潘多拉粉红,p3p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1
-松视1,p3p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140
-松视2,p3p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f
-松视3,p3p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5
-HOT,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
-Happy,p3p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9
-日本J-Girl,p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67
-日本PPV-1,p3p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823
-日本加勒比无码,p3p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4
-日本东京热无码,p3p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c
-日本一本道无码,p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6
-日本天热素人无码,p3p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1
-中字有码1,p3p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505
-中字有码2,p3p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2
-西方21Member,p3p://45.86.67.154:9906/5d59934300011aba076f33001616e67f
-Hustler,p3p://45.86.67.154:9906/5d4c596f00037cee078e283229e92ed5
-Dorcel,p3p://45.86.67.154:9906/5d4c59d300046907078faf0e2ec1f6ef
-Private,p3p://45.86.67.154:9906/5d4c5a4d0000fa2607918abd4b19d609
-Redlight,p3p://45.86.67.154:9906/5d4c5ab0000b952e0793102c944e6d2b
-Penthouse,p3p://45.86.67.154:9906/5d4f96c10008ca971435b1dd34df64a7
-西方1ON1,p3p://45.86.67.154:9906/5d5993b80005f6e90770fd4750858dad
-Vivid HD,p3p://45.86.67.154:9906/5d4c58250004966307891f6aec517474 
-西方21Sextuary,p3p://45.86.67.154:9906/5d59940400084e1b077226c02d3c1976
-西方葡萄牙情色,p3p://45.86.67.154:9906/5d59949e000647c707747fcbd735c60c
-西方老牛吃嫩草,p3p://45.86.67.154:9906/5d5994f60008897a0775d81f36e3fcbf
-韩国演艺圈潜规则,p3p://45.86.67.154:9906/5d5995e9000e2c6707798ec91bc8ba08
-Naughty America,p3p://45.86.67.154:9906/5d5996cc0004d512077d031d6df4719e
-西方OFFICE场景,p3p://45.86.67.154:9906/5d59971a0008b9c4077e34cceff4aa94
-西方黑白大战,p3p://45.86.67.154:9906/5d59976d000162a8077f77232ed1532c
-上原亚衣,p3p://45.86.67.154:9906/60885714000d79780f469106a18a8398
-奥体金丝雀,p3p://45.86.67.154:9906/60885696000e73570f44a516ac364b5e
-日本VR精品,p3p://45.86.67.154:9906/6088565d00040b9b0f43c3c4428ec6b5
-苍井空,p3p://45.86.67.154:9906/608856240007a22a0f42e6072d5e291b
-天堂素人约啪,p3p://45.86.67.154:9906/608855f5000334d30f422d4d37584dc1
-大神猫先生,p3p://45.86.67.154:9906/6088574f000726f40f4775e0effc3aef
-波多野结衣,p3p://45.86.67.154:9906/6088554b000a8bdf0f3f971e47c8b07c
-Heyzo无码,p3p://45.86.67.154:9906/608bea27000c60bd034481e611c23d95
-人妻斩,p3p://45.86.67.154:9906/608bea4b000e85d903450f12cb48a2ef
-猫步毒药,p3p://45.86.67.154:9906/608bea74000ea3350345af42d8d8b0a6
-人妻熟女,p3p://45.86.67.154:9906/608bea960002cfd30346310ba8ab00a1
-素人动画,p3p://45.86.67.154:9906/608beab8000eeeb70346b8f59110da07
-XXXAV,p3p://45.86.67.154:9906/608beae40002b5d4034761b4ed6c00f0
-黑珍珠,p3p://45.86.67.154:9906/608beb520004891c03490fdc097d7e4c
-色情世界,p3p://45.86.67.154:9906/608beb7600096d8803499dbcd1c788c1
-人妻出轨,p3p://45.86.67.154:9906/608bec3e00060395034caa1cf343991f
-阿拉伯情色,p3p://45.86.67.154:9906/608bec620007bc02034d372d176b1cdf
-啄木鸟,p3p://45.86.67.154:9906/608bec97000589c3034e05a5aa2c6188
-Hi Play,p3p://45.86.67.154:9906/608beb280004836603486bcab7d4e831
-古川伊织,p3p://45.86.67.154:9906/608becd9000336e2034f06ddc00031d3
-无码破解,p3p://45.86.67.154:9906/608bed3c00098d4203508b344ba5ff1e
-迷奸无码,p3p://45.86.67.154:9906/608c0034000ce114039aa4ce516a1ea7
-经典三级,p3p://45.86.67.154:9906/608c0057000ef9b8039b2e1056ace6eb
-华男洋妞,p3p://45.86.67.154:9906/608c0090000eebf9039c0cb440ccacea
-麻豆大番,p3p://45.86.67.154:9906/608c00b600071408039c9f226307f8cb
-麻豆导演,p3p://45.86.67.154:9906/608c00e10007e058039d474f3d9f7f96
-麻豆外番,p3p://45.86.67.154:9906/608c0103000de280039dcda8c9f55a82
-麻豆台湾,p3p://45.86.67.154:9906/608c01a70005cbc903a04c36fe07e835
-91老金,p3p://45.86.67.154:9906/608c01d60003609403a103308739719a
-鸭总侦探,p3p://45.86.67.154:9906/608c01fd000c740003a19ddacc1c7d5f
-金三角猎艳,p3p://45.86.67.154:9906/608c02220006ded803a22cf5cf1c760a
-黑人干翻天,p3p://45.86.67.154:9906/608c0247000bbce203a2bebca4cdb2c9
-千人斩,p3p://45.86.67.154:9906/608c027c000c450603a38de66db6a92d
-小宝寻花,p3p://45.86.67.154:9906/608c02a30002b14603a423cb81258ba5
-午夜寻花,p3p://45.86.67.154:9906/608c02c80004e1aa03a4b4e26241a1bc
-男爵探花,p3p://45.86.67.154:9906/608c02f80006677903a570c674c16ef7
-大陆迷奸,p3p://45.86.67.154:9906/608c031d000bbb8103a602ab387ff987
-SM西贡女,p3p://45.86.67.154:9906/608c034100080f6903a68e5b1f24e142
-PsychopornTW,p3p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2
-俄罗斯毛子,p3p://45.86.67.154:9906/608c03bd000d5ca203a8741602ffe939
-美国家庭,p3p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e
-欧美艺术,p3p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750
-果冻传媒,p3p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05
-彩虹e,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-惊艳电影,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵啦玩美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-极限电影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松视1,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松视2,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
-Look TV,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd.ts
-彩虹e,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-LOOK TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-惊艳,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
-香蕉,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
-潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-松视1,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松视2,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
-日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
-日本加勒比无码,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
-日本东京热无码,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
-日本一本道无码,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
-日本天热素人无码,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
-中字有码1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
-中字有码2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
-丝袜台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
-黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
-车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
-Brazzers TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/910/index.m3u8
-Brazzers,http://89.248.160.57/iptv/URFPS4QVV53QPF/6182/index.m3u8
-XYMaxHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6286/index.m3u8
-XYPlusHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6288/index.m3u8
-XYMix HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6287/index.m3u8
-Venus,http://89.248.160.57/iptv/URFPS4QVV53QPF/6284/index.m3u8
-Hot Pleasure,http://89.248.160.57/iptv/URFPS4QVV53QPF/6275/index.m3u8
-Dusk,http://89.248.160.57/iptv/URFPS4QVV53QPF/6198/index.m3u8
-French Lover,http://89.248.160.57/iptv/URFPS4QVV53QPF/2160/index.m3u8
-RealityKings,http://89.248.160.57/iptv/URFPS4QVV53QPF/6247/index.m3u8
-SuperOne,http://89.248.160.57/iptv/URFPS4QVV53QPF/6298/index.m3u8
-Barelylegal,http://89.248.160.57/iptv/URFPS4QVV53QPF/871/index.m3u8
-PlayboyTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6242/index.m3u8
-VividRedHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2162/index.m3u8
-vividtv,http://89.248.160.57/iptv/URFPS4QVV53QPF/6264/index.m3u8
-Русская ночь,http://89.248.160.57/iptv/URFPS4QVV53QPF/147/index.m3u8
-Erox HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2397/index.m3u8
-Eroxxx HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5015/index.m3u8
-Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/244/index.m3u8
-Private,http://89.248.160.57/iptv/URFPS4QVV53QPF/243/index.m3u8
-privateHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6245/index.m3u8
-Redlight,http://89.248.160.57/iptv/URFPS4QVV53QPF/242/index.m3u8
-Babes,http://89.248.160.57/iptv/URFPS4QVV53QPF/6171/index.m3u8
-Babes TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6172/index.m3u8
-penthousTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/1073/index.m3u8
-Penthouse Gold HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5011/index.m3u8
-Penthouse Quickies,http://89.248.160.57/iptv/URFPS4QVV53QPF/5013/index.m3u8
-O-la-la,http://89.248.160.57/iptv/URFPS4QVV53QPF/2161/index.m3u8
-Blue Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/1064/index.m3u8
-Dorcel TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/245/index.m3u8
-Extasy HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5014/index.m3u8
-XXL,http://89.248.160.57/iptv/URFPS4QVV53QPF/5009/index.m3u8
-FAP TV 2,http://89.248.160.57/iptv/URFPS4QVV53QPF/6203/index.m3u8
-FAP TV 3,http://89.248.160.57/iptv/URFPS4QVV53QPF/6204/index.m3u8
-FAP TV 4,http://89.248.160.57/iptv/URFPS4QVV53QPF/6205/index.m3u8
-FAP TV Parody,http://89.248.160.57/iptv/URFPS4QVV53QPF/6210/index.m3u8
-FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
-FAP TV Anal,http://89.248.160.57/iptv/URFPS4QVV53QPF/6206/index.m3u8
-FAP TV Teens,http://89.248.160.57/iptv/URFPS4QVV53QPF/6211/index.m3u8
-FAP TV Lesbian,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
-FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
-补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
-补新05,https://47b61.cdnedge.live/file/avple-images/hls/616d88b5a1a4d6090d670cf1/playlist.m3u8
+
 补最新麻豆02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
 补最新麻豆04,https://47b61.cdnedge.live/file/avple-images/hls/6167163d51121708a790a1b7/playlist.m3u8
 补最新麻豆06,https://47b61.cdnedge.live/file/avple-images/hls/6167160151121708a790a1b6/playlist.m3u8
@@ -6032,61 +5809,7 @@ FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8
 新麻豆648,https://47b61.cdnedge.live/file/avple-images/hls/60705b9190160a18a06bac75/playlist.m3u8
 新麻豆650,https://47b61.cdnedge.live/file/avple-images/hls/6070548990160a18a06bac73/playlist.m3u8
 新麻豆657,https://47b61.cdnedge.live/file/avple-images/hls/606eedf13d938869f8b4803e/playlist.m3u8
-Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-VISIT-X,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-Rough,http://cdn.adultiptv.net/rough.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8
-Anal,http://cdn.adultiptv.net/anal.m3u8
-Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-Russian,http://cdn.adultiptv.net/russian.m3u8
-Threesome,http://cdn.adultiptv.net/threesome.m3u8
-Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-Teen,http://cdn.adultiptv.net/teen.m3u8
-Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-POV,http://cdn.adultiptv.net/pov.m3u8
-Latina,http://cdn.adultiptv.net/latina.m3u8
-Interracial,http://cdn.adultiptv.net/interracial.m3u8
-Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-Fetish,http://cdn.adultiptv.net/fetish.m3u8
-Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-MILF,http://cdn.adultiptv.net/milf.m3u8
-Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-Bigass HD,http://live.redtraffic.xyz/bigass.m3u8
-Cuckold HD,http://live.redtraffic.xyz/cuckold.m3u8
-Fetish HD,http://live.redtraffic.xyz/fetish.m3u8
-Hard Core,http://live.redtraffic.xyz/hardcore.m3u8
-Interracial HD,http://live.redtraffic.xyz/interracial.m3u8
-Latina HD 720,http://live.redtraffic.xyz/latina.m3u8
-Lesbian HD,http://live.redtraffic.xyz/lesbian.m3u8
-Milf HD,http://live.redtraffic.xyz/milf.m3u8
-Pornstar HD,http://live.redtraffic.xyz/pornstar.m3u8
-POV HD 720,http://live.redtraffic.xyz/pov.m3u8
-歐美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-歐美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-歐美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-歐美5,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-歐美6,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-歐美7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-歐美8,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-歐美9,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-歐美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-歐美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-歐美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-褐髮 720,http://cdn.adultiptv.net/brunette.m3u8
-合集 720,http://cdn.adultiptv.net/compilation.m3u8
-綠帽 720,http://cdn.adultiptv.net/cuckold.m3u8
-群交 720,http://cdn.adultiptv.net/gangbang.m3u8
-RedTraffic Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
-RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-RedTraffic Russian,http://live.redtraffic.xyz/russian.m3u8
-RedTraffic Teen,http://live.redtraffic.xyz/teen.m3u8
-RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
-VISIT-X TV,http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
-VISIT-X TV,http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
 SET-009c-僕生中出人妻 篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c-抜14発中出  武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
 SERO-0272c-男性主導の体位 上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
