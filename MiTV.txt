@@ -275,7 +275,22 @@ CCTV风云足球高清,http://113.207.84.197:8090/__cl/cg:live/__c/fyzqHD/__op/d
 CCTV怀旧剧场高清,http://113.207.84.197:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 CCTV第一剧场高清,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 CCTV兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-
+移动,#genre#    
+CCTV1,http://1.183.141.194:8000/hls/1/index.m3u8
+CCTV2,http://1.183.141.194:8000/hls/2/index.m3u8
+CCTV3,http://1.183.141.194:8000/hls/3/index.m3u8
+CCTV4,http://1.183.141.194:8000/hls/4/index.m3u8
+CCTV5,http://1.183.141.194:8000/hls/5/index.m3u8
+CCTV6,http://1.183.141.194:8000/hls/6/index.m3u8
+CCTV7,http://1.183.141.194:8000/hls/7/index.m3u8
+CCTV8,http://1.183.141.194:8000/hls/8/index.m3u8
+CCTV9,http://1.183.141.194:8000/hls/9/index.m3u8
+CCTV10,http://1.183.141.194:8000/hls/10/index.m3u8
+CCTV11,http://1.183.141.194:8000/hls/11/index.m3u8
+CCTV12,http://1.183.141.194:8000/hls/12/index.m3u8
+CCTV13,http://1.183.141.194:8000/hls/13/index.m3u8
+CCTV14,http://1.183.141.194:8000/hls/14/index.m3u8
+CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 
 📺8M专区,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
