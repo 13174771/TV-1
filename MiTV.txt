@@ -1,4 +1,4 @@
-公众号央视,#genre#
+MiTV2023央视,#genre#
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1,http://lu1.cc/itv/sjtv/p/gdy.php?id=cctv1
 CCTV1,http://lu1.cc/itv/sjtv/p/itouch.php?id=cctv1
@@ -306,7 +306,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 
-📡星河科技园,#genre#
+MiTV2023卫视,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -625,7 +625,7 @@ CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://183.207.248.34/PLTV/4/224/3221226999/1.m3u8
 
-🇨🇳高清频道,#genre#
+MiTV2023🇨🇳高清,#genre#
 CCTV4K,http://v2.91kds.cn/b9/gzyx2.m3u8?id=cctv4k&auth=rinimabi
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -675,7 +675,7 @@ CCTV4K,http://v2.91kds.cn/b9/gzyx2.m3u8?id=cctv4k&auth=rinimabi
 17中国蓝TV,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 18中国蓝TV,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 
-🇭🇰香港频道　,#genre#
+MiTV2023🇭🇰香港　,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -756,7 +756,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-🇹🇼湾湾频道,#genre#
+MiTV2023🇹🇼湾湾,#genre#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
