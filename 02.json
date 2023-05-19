@@ -188,6 +188,21 @@
                 "国产传媒"
             ]
         },
+            { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{ "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "kxgav", "name": "白嫖资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "(18+)水蜜桃", "name": "18+(不错)水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+ { "key": "博天堂", "name": "博天堂18x", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+        { "key": "鲨鱼18+", "name": "鲨鱼18+", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+        { "key": "(18+)523资源", "name": "(18+)523资源", "type": 0, "api": "https://caiji.523zyw.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+        { "key": "(18+)天堂福利", "name": "(18+)天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+        { "key": "(18+)探探资源", "name": "(18+)探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+        { "key": "(18+)秀色资源", "name": "(18+)秀色资源", "type": 0, "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml", "playUrl": "https://player.leyuzy.net/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
+
         {
             "key": "乐播",
             "name": "️乐播采集",
@@ -217,20 +232,6 @@
             ]
         }
     ],
-    { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "kxgav", "name": "白嫖资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "(18+)水蜜桃", "name": "18+(不错)水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
- { "key": "博天堂", "name": "博天堂18x", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-        { "key": "鲨鱼18+", "name": "鲨鱼18+", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)523资源", "name": "(18+)523资源", "type": 0, "api": "https://caiji.523zyw.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)天堂福利", "name": "(18+)天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)探探资源", "name": "(18+)探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)秀色资源", "name": "(18+)秀色资源", "type": 0, "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml", "playUrl": "https://player.leyuzy.net/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-
     "parses": [
         {
             "name": "猫影视json",
