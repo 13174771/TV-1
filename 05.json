@@ -334,15 +334,6 @@
     },
 
     {
-      "key": "❤99资源",
-      "name": "❤99资源",
-      "type": 1,
-      "api": "http://99zy.pw/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤酷豆资源",
       "name": "❤酷豆资源",
       "type": 1,
@@ -471,15 +462,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "❤AVZY6888资源",
-      "name": "❤AVZY6888资源",
-      "type": 1,
-      "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+   
     {
       "key": "❤色色资源",
       "name": "❤色色资源",
