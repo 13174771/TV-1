@@ -489,15 +489,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "❤玖玖资源",
-      "name": "❤玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    
     {
       "key": "❤狼少年",
       "name": "❤狼少年",
@@ -507,15 +499,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "❤佳丽资源",
-      "name": "❤佳丽资源",
-      "type": 1,
-      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+   
     {
       "key": "❤番号资源",
       "name": "❤番号资源",
