@@ -1,46 +1,4 @@
-🇹2🇼臺灣電視,#genre#
-鳳凰衛視資訊台,http://awei.beimua.com/yes.php?id=2
-鳳凰衛視中文台,http://awei.beimua.com/yes.php?id=11
-無綫財經·體育·資訊台,http://awei.beimua.com/yes.php?id=12
-無綫新聞台,http://awei.beimua.com/yes.php?id=13
-ViuTV,http://awei.beimua.com/yes.php?id=15
-TVB翡翠台,http://awei.beimua.com/yes.php?id=16
-TVB明珠台,http://awei.beimua.com/yes.php?id=17
-J2台,http://awei.beimua.com/yes.php?id=18
-東森新聞台,http://awei.beimua.com/yes.php?id=1
-TVB新闻台,http://awei.beimua.com/yes.php?id=3
-TVBS,http://awei.beimua.com/yes.php?id=4
-愛爾達體育1台,http://awei.beimua.com/yes.php?id=5
-愛爾達體育3台,http://awei.beimua.com/yes.php?id=7
-緯來體育台,http://awei.beimua.com/yes.php?id=8
-ELEVEN體育1台,http://awei.beimua.com/yes.php?id=9
-ELEVEN體育2台,http://awei.beimua.com/yes.php?id=10
-博斯魅力,http://awei.beimua.com/yes.php?id=21
-卫视中文台,http://awei.beimua.com/yes.php?id=20
-凤凰卫视中文,http://awei.beimua.com/iptv.php?id=1
-凤凰卫视资讯,http://awei.beimua.com/iptv.php?id=2
-中天新闻台,http://awei.beimua.com/iptv.php?id=43
-东森新闻台,http://awei.beimua.com/iptv.php?id=44
-中视新闻台,http://awei.beimua.com/iptv.php?id=46
-台视新闻台,http://awei.beimua.com/iptv.php?id=47
-三立新闻台,http://awei.beimua.com/iptv.php?id=48
-民视新闻台,http://awei.beimua.com/iptv.php?id=50
-华视新闻台,http://awei.beimua.com/iptv.php?id=51
-镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
-寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
-TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
-中视HD,http://awei.beimua.com/iptv.php?id=60
-台视HD,http://awei.beimua.com/iptv.php?id=61
-民视HD,http://awei.beimua.com/iptv.php?id=62
-华视HD,http://awei.beimua.com/iptv.php?id=63
-纬来体育台,http://awei.beimua.com/iptv.php?id=73
-纬来日本台,http://awei.beimua.com/iptv.php?id=74
-纬来育乐台,http://awei.beimua.com/iptv.php?id=75
-ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
-ELEVEN 2,http://awei.beimua.com/iptv.php?id=77
-爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
-爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
-爱尔达体育3台,http://awei.beimua.com/iptv.php?id=81
+
 🇹🇼臺灣電視,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 台視,rtmp://119.81.124.89/sat/tv071
