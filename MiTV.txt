@@ -908,7 +908,7 @@ K高清夜店经典DJ舞曲,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h
 
 
 
-🏍测试7_2360,#genre#
+🏍测试7,#genre#
 
 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
