@@ -1,5 +1,18 @@
 
 🇹🇼影视電視,#genre#
+邵氏电影频道,https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rs5QiOQE5.m3u8
+经典怀旧,http://159.75.85.63:35455/bilibili/22145508
+
+星城上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+邵氏影院,http://epg.112114.xyz/douyu/4246519
+星级综合,http://pull-l3-cny.douyincdn.com/live/stream-112138tvb8080221221253fiyt12136454.m3u8
+星卫HD电影,http://103.112.191.9:880/LAOSAT1082.m3u8
+龙祥时代,http://103.112.191.9:880/LAOSAT1084.m3u8
+卫视电影,http://103.112.191.9:880/LAOSAT1085.m3u8
+星城电影台,https://cn-jssz-cm-02-33.bilivideo.com/live-bvc/888586/live_425917753_27525262.m3u8
+
 黑莓电Y,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 广东影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
