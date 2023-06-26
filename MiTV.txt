@@ -75,7 +75,24 @@
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 海西电影台,http://stream.haixitv.cn/1/sd/live.m3u8
-
+应该不卡0,#genre#
+TVBS HD,http://fastnas.ddnsfree.com:8585/live.m3u8?c=2
+TVBS新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=1
+中天新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=4
+中视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=6
+台视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=5
+寰宇新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=7
+三立NEWS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=10
+IVE三立,http://fastnas.ddnsfree.com:8585/live.m3u8?c=9
+东森财经台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=12
+东森新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=11
+视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=14
+意新闻,http://fastnas.ddnsfree.com:8585/live.m3u8?c=13
+WfoolDelights,http://fastnas.ddnsfree.com:8585/live.m3u8?c=15
+VBS NEWS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=16
+凰资讯台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=17
+森综合,http://fastnas.ddnsfree.com:8585/live.m3u8?c=18
+视,http://fastnas.ddnsfree.com:8585/live.m3u8?c=19
 
 
 应该不卡1,#genre#
