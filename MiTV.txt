@@ -1,9 +1,6 @@
 
 🇹🇼影视電視,#genre#
 
-星城电影台,https://cn-jssz-cm-02-33.bilivideo.com/live-bvc/888586/live_425917753_27525262.m3u8
-
-黑莓电Y,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 广东影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -75,119 +72,7 @@
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 海西电影台,http://stream.haixitv.cn/1/sd/live.m3u8
-应该不卡0,#genre#
-TVBS HD,http://fastnas.ddnsfree.com:8585/live.m3u8?c=2
-TVBS新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=1
-中天新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=4
-中视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=6
-台视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=5
-寰宇新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=7
-三立NEWS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=10
-IVE三立,http://fastnas.ddnsfree.com:8585/live.m3u8?c=9
-东森财经台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=12
-东森新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=11
-视新闻台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=14
-意新闻,http://fastnas.ddnsfree.com:8585/live.m3u8?c=13
-WfoolDelights,http://fastnas.ddnsfree.com:8585/live.m3u8?c=15
-VBS NEWS,http://fastnas.ddnsfree.com:8585/live.m3u8?c=16
-凰资讯台,http://fastnas.ddnsfree.com:8585/live.m3u8?c=17
-森综合,http://fastnas.ddnsfree.com:8585/live.m3u8?c=18
-视,http://fastnas.ddnsfree.com:8585/live.m3u8?c=19
 
-
-应该不卡1,#genre#
-中天新闻,http://198.13.47.184:8500/live.m3u8?c=1
-中天新闻2台,http://198.13.47.184:8500/live.m3u8?c=2
-东森新闻,http://198.13.47.184:8500/live.m3u8?c=3
-寰宇新聞台,http://198.13.47.184:8500/live.m3u8?c=4
-華視新聞,http://198.13.47.184:8500/live.m3u8?c=5
-DW,http://198.13.47.184:8500/live.m3u8?c=6
-FRANCE 24,http://198.13.47.184:8500/live.m3u8?c=7
-TaiwanPlus,http://198.13.47.184:8500/live.m3u8?c=8
-鏡新聞,http://198.13.47.184:8500/live.m3u8?c=9
-民视新闻,http://198.13.47.184:8500/live.m3u8?c=10
-
-应该不卡2,#genre#
-台視HD,http://bad-ass.site/tw.php?id=live1047
-中視HD,http://bad-ass.site/tw.php?id=live1048
-華視HD,http://bad-ass.site/tw.php?id=live1049
-民視HD,http://bad-ass.site/tw.php?id=live1050
-公視,http://bad-ass.site/tw.php?id=live1201
-好消息頻道,http://bad-ass.site/tw.php?id=live1231
-國家地理HD,http://bad-ass.site/tw.php?id=live1003
-DISCOVERY,http://bad-ass.site/tw.php?id=live1002
-旅遊生活,http://bad-ass.site/tw.php?id=live1005
-動物星球,http://bad-ass.site/tw.php?id=live1004
-亞洲旅遊,http://bad-ass.site/tw.php?id=live1219
-Baby TV,http://bad-ass.site/tw.php?id=live1007
-東森幼幼HD,http://bad-ass.site/tw.php?id=live1008
-龍華卡通台,http://bad-ass.site/tw.php?id=custom29
-八大綜合HD,http://bad-ass.site/tw.php?id=live1019
-三立台灣HD,http://bad-ass.site/tw.php?id=live1021
-三立都會HD,http://bad-ass.site/tw.php?id=live1020
-衛視中文HD,http://bad-ass.site/tw.php?id=live1024
-東森綜合HD,http://bad-ass.site/tw.php?id=live1041
-超視HD,http://bad-ass.site/tw.php?id=live1180
-中天綜合HD,http://bad-ass.site/tw.php?id=live1022
-中天娛樂HD,http://bad-ass.site/tw.php?id=live1023
-MUCH TV,http://bad-ass.site/tw.php?id=live1189
-八大戲劇HD,http://bad-ass.site/tw.php?id=live1057
-TVBS歡樂HD,http://bad-ass.site/tw.php?id=live1018
-緯來戲劇,http://bad-ass.site/tw.php?id=live1186
-龍華偶像劇,http://bad-ass.site/tw.php?id=live1235
-緯來日本HD,http://bad-ass.site/tw.php?id=live1026
-Taiwan Plus,http://bad-ass.site/tw.php?id=live1238
-年代新聞,http://bad-ass.site/tw.php?id=live1192
-東森新聞HD,http://bad-ass.site/tw.php?id=live1014
-中天新聞HD,http://bad-ass.site/tw.php?id=live1015
-三立新聞HD,http://bad-ass.site/tw.php?id=live1016
-TVBS新聞HD,http://bad-ass.site/tw.php?id=live1051
-TVBS HD,http://bad-ass.site/tw.php?id=live1251
-非凡新聞,http://bad-ass.site/tw.php?id=live1013
-非凡商業,http://bad-ass.site/tw.php?id=live1012
-寰宇新聞,http://bad-ass.site/tw.php?id=live1222
-壹新聞,http://bad-ass.site/tw.php?id=live1242
-Bloomberg News,http://bad-ass.site/tw.php?id=live1066
-衛視電影HD,http://bad-ass.site/tw.php?id=live1031
-好萊塢電影HD,http://bad-ass.site/tw.php?id=live1025
-緯來電影HD,http://bad-ass.site/tw.php?id=live1183
-龍華電影台,http://bad-ass.site/tw.php?id=live1245
-HBO,http://bad-ass.site/tw.php?id=live1029
-AXN,http://bad-ass.site/tw.php?id=live1054
-CINEMAX HD,http://bad-ass.site/tw.php?id=live1030
-STAR MOVIES GOLD,http://bad-ass.site/tw.php?id=live1032
-Star World,http://bad-ass.site/tw.php?id=live1040
-緯來育樂HD,http://bad-ass.site/tw.php?id=live1045
-博斯運動一,http://bad-ass.site/tw.php?id=live1225
-momo 綜合台,http://bad-ass.site/tw.php?id=live1248
-ELEVEN SPORTS 1 HD,http://bad-ass.site/tw.php?id=live1069
-ELEVEN SPORTS 2 HD,http://bad-ass.site/tw.php?id=live1072
-海峽衛視HD,http://bad-ass.site/tw.php?id=live1035
-松视2,http://dl.zapi.ml/ubpad.php?id=403 
-松视3,http://dl.zapi.ml/ubpad.php?id=404 
-香蕉台,http://dl.zapi.ml/ubpad.php?id=408 
-潘朵拉完美,http://dl.zapi.ml/ubpad.php?id=410 
-潘朵拉粉红,http://dl.zapi.ml/ubpad.php?id=411 
-彩虹e台,http://dl.zapi.ml/ubpad.php?id=413 
-彩虹K,http://dl.zapi.ml/ubpad.php?id=406 
-极限电影,http://dl.zapi.ml/ubpad.php?id=405 
-一本道,http://dl.zapi.ml/ubpad.php?id=414 
-二本道,http://dl.zapi.ml/ubpad.php?id=415 
-东京热,http://dl.zapi.ml/ubpad.php?id=416 
-HOT,http://dl.zapi.ml/ubpad.php?id=407 
-happy,http://dl.zapi.ml/ubpad.php?id=412 
-惊艳台,http://dl.zapi.ml/ubpad.php?id=409 
-Erox HD,http://dl.zapi.ml/ubpad.php?id=456 
-Dorcel HD,http://dl.zapi.ml/ubpad.php?id=454 
-Babes TV HD,http://dl.zapi.ml/ubpad.php?id=458 
-Hustler HD,http://dl.zapi.ml/ubpad.php?id=451 
-SCT Classic,http://dl.zapi.ml/ubpad.php?id=462 
-Redlight HD,http://dl.zapi.ml/ubpad.php?id=452 
-SEX ATION HD,http://dl.zapi.ml/ubpad.php?id=459 
-Super One HD,http://dl.zapi.ml/ubpad.php?id=457 
-Prvate TV,http://dl.zapi.ml/ubpad.php?id=453 
-Passie,http://dl.zapi.ml/ubpad.php?id=461 
-Vivid Red HD,http://dl.zapi.ml/ubpad.php?id=455 
 
 
 🎈央视直播,#genre#
