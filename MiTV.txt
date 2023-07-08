@@ -1,5 +1,9 @@
 
 🇹🇼影视電視,#genre#
+測試01,http://sc2022.stream-link.org/tv2306.php?id=c01
+測試02,http://sc2022.stream-link.org/tv2306.php?id=c02
+測試03,http://sc2022.stream-link.org/tv2306.php?id=c03
+
 Now星影台,http://zhpull.dxhmt.cn/jiaozuo/live/2928e1c6bd73cda21584ad9e9a545230.flv
 广东影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
