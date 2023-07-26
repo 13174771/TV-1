@@ -76,6 +76,82 @@ Now星影台,http://zhpull.dxhmt.cn/jiaozuo/live/2928e1c6bd73cda21584ad9e9a54523
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 海西电影台,http://stream.haixitv.cn/1/sd/live.m3u8
+测试直播,#genre#
+凤凰中文[1920*1080],http://66.181.39.224/ml.php?id=phoenixtv_hd
+凤凰资讯[1280*720],http://66.181.39.224/ml.php?id=phoenixinfo_hd
+凤凰香港[1920*1080],http://66.181.39.224/ml.php?id=hkphoenix_twn
+翡翠台[1920*1080],http://66.181.39.224/ml.php?id=jade_twn
+华丽台[1280*720],http://66.181.39.224/ml.php?id=Wlt
+明珠台[1280*720],http://66.181.39.224/ml.php?id=pearl_twn
+TVB 星河台[1280*720],http://66.181.39.224/ml.php?id=Xinhe_mega
+TVB星河[1920*1080],http://66.181.39.224/ml.php?id=Xinhe
+无线财经台[1920*1080],http://66.181.39.224/ml.php?id=tvbcaijing_twn 
+无线新闻台[1920*1080],http://66.181.39.224/ml.php?id=inews_twn
+无线新闻台[1920*1080],http://66.181.39.224/ml.php?id=inews_twn
+无线新闻台[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
+无线新闻台[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
+VIUTV1[1920*1080],http://66.181.39.224/ml.php?id=viu1_twn
+VIUTV1[1920*1080],http://66.181.39.224/ml.php?id=viu1_twn
+RTHK31[1280*720],http://66.181.39.224/ml.php?id=rhk31_twn
+RTHK32[1280*720],http://66.181.39.224/ml.php?id=rhk32_twn
+中天新闻[1280*720],http://66.181.39.224/ml.php?id=ctinews
+纬来日本[1920*1080],http://66.181.39.224/ml.php?id=videolandjapan
+纬来电影[1920*1080],http://66.181.39.224/ml.php?id=videolandmovie
+東森戏剧[1920*1080],http://66.181.39.224/ml.php?id=ettvdrama
+东森洋片[1920*1080],http://66.181.39.224/ml.php?id=ettvwestern
+爱尔达体育3台[1280*720],http://66.181.39.224/ml.php?id=eltasport3_twn
+CN卡通频道[1920*1080],http://66.181.39.224/ml.php?id=momo1_twn
+国家地理[1280*720],http://66.181.39.224/ml.php?id=natgeohd_twn
+纬来体育[1920*1080],http://66.181.39.224/ml.php?id=videolandsport
+东森超视[1920*1080],http://66.181.39.224/ml.php?id=ettvsuper
+好莱坞电影[1920*1080],http://66.181.39.224/ml.php?id=hollywoodmovies_twn
+娱乐新闻台[1920*1080],http://66.181.39.224/ml.php?id=tvbxinhe_twn
+华纳电影台[1280*720],http://66.181.39.224/ml.php?id=WarnerTV
+爱奇艺[1280*720],http://66.181.39.224/ml.php?id=Qiyi_mega
+爱奇艺[1280*720],http://66.181.39.224/ml.php?id=Qiyi
+爱奇艺[1280*720],http://66.181.39.224/ml.php?id=Qiyi_mega
+爱奇艺[1280*720],http://66.181.39.224/ml.php?id=Qiyi
+卫视洋片台[1920*1080],http://66.181.39.224/ml.php?id=starmovies_raj
+大湾区卫视[1280*720],http://66.181.39.224/ml.php?id=guangdongweishi_twn
+astro欢喜台[1280*720],http://66.181.39.224/ml.php?id=Huahee
+astro小太阳[1280*720],http://66.181.39.224/ml.php?id=Xiaotaiyang
+博斯运动 1[1280*720],http://66.181.39.224/ml.php?id=bosisport1_twn
+Baby 卡通台[1280*720],http://66.181.39.224/ml.php?id=babytv_twn
+DiscoveryTurbo[1280*720],http://66.181.39.224/ml.php?id=discoveryturbo_twn
+TVBS新闻台[1920*1080],http://66.181.39.224/ml.php?id=tvbs_n
+TVBS欢乐台[1920*1080],http://66.181.39.224/ml.php?id=tvbshuanle_twn
+TLC 旅游台[1280*720],http://66.181.39.224/ml.php?id=tlc_twn
+博斯运动2[1280*720],http://66.181.39.224/ml.php?id=bosisport2_twn
+博斯高球1[1280*720],http://66.181.39.224/ml.php?id=bosigolf1_twn
+博斯高球2[1280*720],http://66.181.39.224/ml.php?id=bosigolf2_twn
+台视新闻[1280*720],http://66.181.39.224/ml.php?id=ttvnews_twn
+中视经典[1280*720],http://66.181.39.224/ml.php?id=zhongshi_twn
+中视新闻[1920*1080],http://66.181.39.224/ml.php?id=ca73a13c37
+中视新闻[1920*1080],http://66.181.39.224/ml.php?id=zhongshinews_twn
+非凡新闻[1920*1080],http://66.181.39.224/ml.php?id=feifannews_twn
+三立台湾[1920*1080],http://66.181.39.224/ml.php?id=sanlitaiwan
+中天综合[1920*1080],http://66.181.39.224/ml.php?id=ctizhonghe
+中天娱乐[1920*1080],http://66.181.39.224/ml.php?id=ctient
+爱尔达体育1台[1280*720],http://66.181.39.224/ml.php?id=eltasport1_twn
+爱尔达体育2台[1280*720],http://66.181.39.224/ml.php?id=eltasport2_twn
+TLC旅游生活频道[1280*720],http://66.181.39.224/ml.php?id=Tlc
+东森财经新闻[1280*720],http://66.181.39.224/ml.php?id=ettvcaijing_twn
+爱尔达影剧台[1280*720],http://66.181.39.224/ml.php?id=eltadrama_twn
+爱尔达影剧台[1280*720],http://66.181.39.224/ml.php?id=eltayingju_twn
+国家地理野生[1280*720],http://66.181.39.224/ml.php?id=natgeowild_twn
+民视台湾台[1920*1080],http://66.181.39.224/ml.php?id=ftvtaiwan_twn
+民视新闻台[1280*720],http://66.181.39.224/ml.php?id=ftvnew_taiwan
+民视第一台[1280*720],http://66.181.39.224/ml.php?id=lunghuajingdian_twn
+寰宇新闻台[1280*720],http://66.181.39.224/ml.php?id=huanyuxinwen_twn
+年代新闻台[1920*1080],http://66.181.39.224/ml.php?id=niandainews_twn
+三立都会台[1920*1080],http://66.181.39.224/ml.php?id=sanlidouhui_twn
+三立综合台[1280*720],http://66.181.39.224/ml.php?id=sanlizhonghe
+三立戏剧台[1280*720],http://66.181.39.224/ml.php?id=sanlixiju_twn
+靖天国际台[1280*720],http://66.181.39.224/ml.php?id=jingtianintl_twn
+八大第一台[1920*1080],http://66.181.39.224/ml.php?id=badafirst
+八大综合台[1920*1080],http://66.181.39.224/ml.php?id=badazhonghe
+八大戏剧台[1920*1080],http://66.181.39.224/ml.php?id=badadrama
+東森电影台[1920*1080],http://66.181.39.224/ml.php?id=ettvmovie
 
 
 
