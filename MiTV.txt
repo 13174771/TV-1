@@ -1,10 +1,9 @@
 
-🇹🇼影视電視,#genre#
+🎈影视電視,#genre#
 測試01,http://sc2022.stream-link.org/tv2306.php?id=c01
 測試02,http://sc2022.stream-link.org/tv2306.php?id=c02
 測試03,http://sc2022.stream-link.org/tv2306.php?id=c03
-女神影院,https://pull.kktv8.com/livekktv/99350550.flv
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+
 1.华语经典,http://epg.112114.xyz/douyu/434971
 2.吃米滴虫,http://epg.112114.xyz/douyu/315457
 4.神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -33,7 +32,6 @@
 57.网神影厅,http://epg.112114.xyz/douyu/5081118
 60.枪战影片,http://epg.112114.xyz/douyu/10240510
 61.国外电影,http://epg.112114.xyz/douyu/9683979
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 电影台50,http://bp-caster.bestv.com.cn/494/1/video.m3u8
 隆化电影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
@@ -193,7 +191,7 @@ SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 黑龙江影视1280*720,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑侠,http://cs.gzc.svp.tencent-cloud.com/0bf2xmab2aaai4ahlqefbfqfbo6ddw5qahia.f10002.mp4?
-测试直播,#genre#
+🎈测试直播,#genre#
 
 凤凰中文,http://60.208.16.27:1505/gudou.php?id=364&id=fhzw_1500
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
