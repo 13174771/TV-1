@@ -13,7 +13,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.kgithub.com/123linyao123/TV/main/MiTV.txt"]}]}],
 
 "sites":[
-  
+ {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/555电影.json"}, 
  {"key":"csp_XBiu_真不卡","name":"🍀真不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡.json"},
     {"key":"csp_XBiu_真不卡2","name":"🍀真不卡2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡2.json"},
    {"key":"csp_XBiu_真不卡3","name":"🍀真不卡3(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡3.json"},
