@@ -10,14 +10,23 @@
     {"key":"CK资源","name":"🍀CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_XBiu_酷云","name":"🍀酷云(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/酷云.json"},
     {
-    
+      "key": "AList",
+      "name": "网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
             "name": "AV",
             "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
           }
         ]
       }
     },
-   
+    // {"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/四虎.json"},
+
  
     {"key":"亚洲成人在线","name":"👙亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"草榴视频","name":"👙草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
