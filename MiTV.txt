@@ -447,7 +447,7 @@ Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBCGOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 
-泰国,#genre#
+📺泰国,#genre#
 Channel5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
 TNN16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
