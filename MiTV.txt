@@ -1972,7 +1972,15 @@ YY舞蹈993热舞不断,http://150.158.81.157/yy.php?id=22490906
 
 
 🏍测试7,#genre#
-
+Sonsee 1 松視1,http://58.99.33.2:1935/liveedge2/jZPELJzi_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Sonsee 2 松視2,http://58.99.33.2:1935/liveedge2/jZPELJzi_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Sonsee 3 松視3,http://58.99.33.2:1935/liveedge2/jZPELJzi_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Rainbow 彩虹頻道,http://58.99.33.2:1935/liveedge2/jZPELJzi_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+樂活,http://58.99.33.2:1935/liveedge2/jZPELJzi_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Pandora Perfect 潘朵拉玩美,http://58.99.33.2:1935/liveedge2/jZPELJzi_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Pandora Pink 潘朵拉粉红,http://58.99.33.2:1935/liveedge2/jZPELJzi_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+Amazing TV 驚豔台,http://58.99.33.2:1935/liveedge2/jZPELJzi_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+BananaHD 香蕉台,http://58.99.33.2:1935/liveedge2/jZPELJzi_414_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
 欧美2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
 欧美3,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
