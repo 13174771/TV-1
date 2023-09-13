@@ -632,31 +632,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/b85365b9033d4b02b546fd5faa0b5a
 
 🎈央视直播,#genre#
 
-CCTV-1HD,http://8.210.232.168/php/migu.php?id=cctv1
-CCTV-1HD2,http://8.210.232.168/php/migu.php?id=cctv1b
-CCTV-2HD,http://8.210.232.168/php/migu.php?id=cctv2
-CCTV-3HD,http://8.210.232.168/php/migu.php?id=cctv3
-CCTV-4HD,http://8.210.232.168/php/migu.php?id=cctv4
-CCTV-4欧洲,http://8.210.232.168/php/migu.php?id=cctv4o
-CCTV-4美洲,http://8.210.232.168/php/migu.php?id=cctv4a
-CCTV-5HD,http://8.210.232.168/php/migu.php?id=cctv5
-CCTV-5HD2,http://8.210.232.168/php/migu.php?id=cctv5b
-CCTV-5+HD,http://8.210.232.168/php/migu.php?id=cctv5p
-CCTV-5+HD2,http://8.210.232.168/php/migu.php?id=cctv5p2
-CCTV-6HD,http://8.210.232.168/php/migu.php?id=cctv6
-CCTV-7HD,http://8.210.232.168/php/migu.php?id=cctv7
-CCTV-8HD,http://8.210.232.168/php/migu.php?id=cctv8
-CCTV-9HD,http://8.210.232.168/php/migu.php?id=cctv9
-CCTV-10HD,http://8.210.232.168/php/migu.php?id=cctv10
-CCTV-11HD,http://8.210.232.168/php/migu.php?id=cctv11
-CCTV-12HD,http://8.210.232.168/php/migu.php?id=cctv12
-CCTV-13HD,http://8.210.232.168/php/migu.php?id=cctv13
-CCTV-14HD,http://8.210.232.168/php/migu.php?id=cctv14
-CCTV-15HD,http://8.210.232.168/php/migu.php?id=cctv15
-CCTV-17HD,http://8.210.232.168/php/migu.php?id=cctv17
-CGTN西语,http://8.210.232.168/php/migu.php?id=cgtne
-CGTN阿语,http://8.210.232.168/php/migu.php?id=cgtna
-CHC家庭影院,http://8.210.232.168/php/migu.php?id=chcjtyy
+
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV1,http://lu1.cc/itv/php/as.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
@@ -975,41 +951,7 @@ CCTV8K,http:///ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 
 
-北京卫视HD,http://8.210.232.168/php/migu.php?id=bjws
-东方卫视HD,http://8.210.232.168/php/migu.php?id=dfws
-东方卫视HD2,http://8.210.232.168/php/migu.php?id=dfws2
-重庆卫视,http://8.210.232.168/php/migu.php?id=cqws
-吉林卫视,http://8.210.232.168/php/migu.php?id=jlws
-辽宁卫视HD,http://8.210.232.168/php/migu.php?id=lnws
-内蒙古卫视,http://8.210.232.168/php/migu.php?id=nmws
-宁夏卫视,http://8.210.232.168/php/migu.php?id=nxws
-甘肃卫视,http://8.210.232.168/php/migu.php?id=gsws
-青海卫视,http://8.210.232.168/php/migu.php?id=qhws
-陕西卫视HD,http://8.210.232.168/php/migu.php?id=sxws
-山东卫视HD,http://8.210.232.168/php/migu.php?id=sdws
-湖北卫视HD,http://8.210.232.168/php/migu.php?id=hubws
-湖南卫视HD,http://8.210.232.168/php/migu.php?id=hunws
-江西卫视HD,http://8.210.232.168/php/migu.php?id=jxws
-江苏卫视HD,http://8.210.232.168/php/migu.php?id=jsws
-广东卫视HD,http://8.210.232.168/php/migu.php?id=gdws
-广东卫视HD2,http://8.210.232.168/php/migu.php?id=gdws2
-大湾区卫视,http://8.210.232.168/php/migu.php?id=dwqws
-四川卫视HD,http://8.210.232.168/php/migu.php?id=scws
-新疆卫视,http://8.210.232.168/php/migu.php?id=xjws
-西藏卫视,http://8.210.232.168/php/migu.php?id=xzws
-海南卫视,http://8.210.232.168/php/migu.php?id=hinws
-四海钓鱼,http://8.210.232.168/php/migu.php?id=shdy
-江苏教育,http://8.210.232.168/php/migu.php?id=jsjy
-山东教育卫视,http://8.210.232.168/php/migu.php?id=sdjy
-游戏风云HD,http://8.210.232.168/php/migu.php?id=yxfy
-欢笑剧场4K,http://8.210.232.168/php/migu.php?id=hxjc
-东方购物,http://8.210.232.168/php/migu.php?id=dfgw
-之江纪录,http://8.210.232.168/php/migu.php?id=zjjl
-杭州综合,http://8.210.232.168/php/migu.php?id=hzzh
-杭州明珠,http://8.210.232.168/php/migu.php?id=hzmz
-杭州生活,http://8.210.232.168/php/migu.php?id=hzsh
-杭州影视,http://8.210.232.168/php/migu.php?id=hzys
-杭州少儿体育,http://8.210.232.168/php/migu.php?id=hzse
+
 湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
 湖南卫视,http://lu1.cc/itv/php/as.php?id=hunhd
 浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
