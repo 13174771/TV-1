@@ -253,7 +253,12 @@ LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 奥視3,http://125.227.210.55:62697/VideoInput/play.ts
 驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
-
+94,http://220.135.124.158:8088/live/94_h265.ts
+95,http://220.135.124.158:8088/live/95_h265.ts
+96,http://220.135.124.158:8088/live/96_h265.ts
+97,http://220.135.124.158:8088/live/97_h265.ts
+98,http://220.135.124.158:8088/live/98_h265.ts
+99,http://220.135.124.158:8088/live/99_h265.ts
 ||XXX|| REDBOX ADULTS 1·**·,http://toronto99.xyz:80/855595245089/661432231111/72138
 ||XXX|| REDBOX ADULTS 2·**·,http://toronto99.xyz:80/855595245089/661432231111/72139
 ||XXX|| REDBOX ADULTS 3·**·,http://toronto99.xyz:80/855595245089/661432231111/72140
