@@ -3851,6 +3851,13 @@ oh我的鬼神大人-韓劇,https://live.metshop.top/yy/1354936160
 
 
 台深夜不穩定,#genre#
+時尚台FTV,http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4af
+Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
+Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
+Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+Fake Taxi HD2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 台湾松视1台,http://193.233.206.48:8090/live/rx3/402/39cd9e52d157a4a11fe18823b1c2a3da/index.m3u8
 台湾松视2台,http://193.233.206.48:8090/live/rx3/403/32a197acb4b79f0cdf2a0845921b5167/index.m3u8
