@@ -909,7 +909,9 @@ CCTV-17農村,http://222.175.159.226:808/hls/202318/index.m3u8
 
 焦作綜合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 
-動畫片,#genre#
+
+
+🌙動畫輪播-XX宝盒,#genre#
 【七龍珠改】超級賽亞人孫捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿嗎,https://epg.112114.xyz/huya/11601963
 【海綿寶寶】黃方塊的爆笑生活~,https://epg.112114.xyz/huya/11352919
@@ -992,8 +994,8 @@ CCTV-17農村,http://222.175.159.226:808/hls/202318/index.m3u8
 LexBurner,http://zzy789.xyz/bili.php?id=11365
 -貓大人-,http://zzy789.xyz/bili.php?id=723
 
-虎牙,#genre#
 
+🌙虎牙輪播-XX宝盒,#genre#
 周星馳,https://live.metshop.top/huya/11342412
 SMG最強大腦,https://live.metshop.top/huya/11352914
 霸哥,https://live.metshop.top/huya/189201
@@ -1744,7 +1746,7 @@ fromis9-JIWON,https://live.metshop.top/huya/691251
 石神v,https://live.metshop.top/huya/24596497
 沙雕劇情梗中梗,https://live.metshop.top/huya/24648646
 
-電影輪播,#genre#
+🌙電影輪播-XX宝盒,#genre#
 電影_星爺,https://live.metshop.top/huya/11342412
 電影_英叔,https://live.metshop.top/huya/11342421
 電影_發哥,https://live.metshop.top/huya/11342387
@@ -2925,7 +2927,7 @@ nileli,https://live.metshop.top/douyu/419987
 夢盡310,https://live.metshop.top/douyu/11491958
 
 
-YY直播,#genre#
+🌙YY直播-XX宝盒,#genre#
 好久不見-武林外傳,https://live.metshop.top/yy/1355914397
 豪哥帶我們發財,https://live.metshop.top/yy/23402146
 紀曉嵐,https://live.metshop.top/yy/1354143978
@@ -3652,7 +3654,7 @@ oh我的鬼神大人-韓劇,https://live.metshop.top/yy/1354936160
 10年沒洗的地毯,https://live.metshop.top/yy/1354931585
 相聲相聲搜38528頻道,https://live.metshop.top/yy/34025318
 
-｜女團太妍,#genre#
+🌙女團-XX宝盒,#genre#
 韓國DJ Soda Remix 2021 電音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 韓國歌團001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韓國歌團002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -3850,7 +3852,7 @@ oh我的鬼神大人-韓劇,https://live.metshop.top/yy/1354936160
 
 
 
-台深夜不穩定,#genre#
+🌙奥視-XX宝盒,#genre#
 
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Japan HDV2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
@@ -3871,8 +3873,7 @@ JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
 
 
 
-歐美深夜,#genre#
-
+🌙直播-XX宝盒,#genre#
 直播teen,http://live.mycamtv.com/teen.m3u8
 直播anal,http://live.mycamtv.com/anal.m3u8
 直播arab,http://live.mycamtv.com/arab.m3u8
@@ -3890,7 +3891,7 @@ JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
 直播white,http://live.mycamtv.com/white.m3u8
 直播young,http://live.mycamtv.com/young.m3u8
 
-加值測試,#genre#
+🌙直播2-XX宝盒,#genre#
 直播720,http://cdn.adultiptv.net/livecams.m3u8
 肛交720,http://cdn.adultiptv.net/anal.m3u8
 巨尻720,http://cdn.adultiptv.net/bigass.m3u8
