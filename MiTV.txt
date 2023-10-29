@@ -172,7 +172,11 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/8a01b92cfba546019469635346591c
 镜新闻,mitv://generationnexxxt.com:19806/01d1b7f588ad4204bf329f1abd6b3b5c
 MTV,mitv://generationnexxxt.com:19806/af4a6dd557ef4587931a5d669ac3d846
 
-愛尚高清,#genre#
+
+🌙愛尚高清-XX宝盒,#genre#
+
+
+
 CCTV1綜合,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2財經,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3綜藝,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -333,8 +337,10 @@ GTV網路棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CO
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
+🌙重慶有線-XX宝盒,#genre#
 
-重慶有線,#genre#
+
+
 重慶新聞,http://hls.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 重慶科教,http://hls.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
 重慶影視,http://hls.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
@@ -418,7 +424,10 @@ CHC-家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defau
 CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 
-山東廣電,#genre#
+
+🌙山東廣電-XX宝盒,#genre#
+
+
 山東齊魯,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 山東文旅,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山東綜藝,rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
@@ -802,7 +811,11 @@ LYTV-2,http://lu1.cc/itv/php/iqilu.php?id=dzly2
 收藏天下,http://lu1.cc/itv/php/yqgd.php?id=sctx
 收藏天下,http://113.207.84.197:8090/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
 收藏天下,http://lu1.cc/itv/php/cqyx.php?id=sctx
-河南移動,#genre#
+
+
+
+🌙河南移動-XX宝盒,#genre#
+
 CCTV-1綜合,http://222.175.159.226:808/hls/20231/index.m3u8
 
 CCTV-2財經,http://222.175.159.226:808/hls/20232/index.m3u8
@@ -1860,7 +1873,7 @@ fromis9-JIWON,https://live.metshop.top/huya/691251
 劇集_地下交通站,https://live.metshop.top/huya/11342433
 劇集_鄰里一家親,https://live.metshop.top/huya/11342426
 
-埋堆堆,#genre#
+🌙埋堆堆輪播-XX宝盒,#genre#
 埋堆堆1,https://live.metshop.top/huya/23749096
 
 埋堆堆2,https://live.metshop.top/huya/23735126
@@ -1983,7 +1996,7 @@ fromis9-JIWON,https://live.metshop.top/huya/691251
 
 埋堆堆61,https://live.metshop.top/huya/23728674
 
-鬥魚,#genre#
+🌙鬥魚輪播-XX宝盒,#genre#
 南梔yyds,https://live.metshop.top/douyu/10434098
 伊太刀刀,https://live.metshop.top/douyu/747764
 進擊の神樂,https://live.metshop.top/douyu/122402
