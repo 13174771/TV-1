@@ -1,4 +1,4 @@
-🔞🈲福利_9527,#genre#
+🔞🈲福利,#genre#
 麻豆传媒001,https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
 麻豆传媒002,https://video2.51daao.com/btt1/2021/04/20210421/uerOlDXv/index.m3u8
 麻豆传媒003,https://video2.51daao.com/btt1/2021/04/20210421/Q6vpCHnh/index.m3u8
@@ -348,7 +348,7 @@
 
 
 
-【麻豆映画】_9527,#genre#
+【麻豆映画】,#genre#
 龚菲菲,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ddad30f8/index.m3u8
 盼容,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed00ba64/index.m3u8
 艾秋,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/9abe8198/index.m3u8
@@ -399,7 +399,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画03】_9527,#genre#
+【麻豆映画03】,#genre#
 01,https://1xp60.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
 02,https://w9n76.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
 03,https://e2fa6.cdnedge.live/file/avple-images/hls/62bbf60aea3d425e0a93b7ae/playlist.m3u8
@@ -457,7 +457,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画05】_9527,#genre#
+【麻豆映画05】,#genre#
 01,https://d862cp.cdnedge.live/file/avple-images/hls/62aed121c556631aff1378f2/playlist.m3u8
 02,https://8bb88.cdnedge.live/file/avple-images/hls/62aed1d5c556631aff1378f4/playlist.m3u8
 03,https://zo392.cdnedge.live/file/avple-images/hls/62aed19cc556631aff1378f3/playlist.m3u8
@@ -499,7 +499,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画06】_9527,#genre#
+【麻豆映画06】,#genre#
 01,https://e2fa6.cdnedge.live/file/avple-images/hls/62a5afee94b044303b9622df/playlist.m3u8
 02,https://zo392.cdnedge.live/file/avple-images/hls/62a5aefe94b044303b9622de/playlist.m3u8
 03,https://w9n76.cdnedge.live/file/avple-images/hls/62a5b68294b044303b9622e3/playlist.m3u8
@@ -712,7 +712,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画07】_9527,#genre#
+【麻豆映画07】,#genre#
 01,https://8bb88.cdnedge.live/file/avple-images/hls/6290bf9287412532ac7f4cff/playlist.m3u8
 02,https://w9n76.cdnedge.live/file/avple-images/hls/6290be2987412532ac7f4cfe/playlist.m3u8
 03,https://zo392.cdnedge.live/file/avple-images/hls/628f85bd531f007e5ba30b01/playlist.m3u8
@@ -919,7 +919,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画08】_9527,#genre#
+【麻豆映画08】,#genre#
 01,https://u89ey.cdnedge.live/file/avple-images/hls/6257f50aa840bf2dd2ce4358/playlist.m3u8
 02,https://10j99.cdnedge.live/file/avple-images/hls/6256da62bd3519566877455d/playlist.m3u8
 03,https://q2cyl7.cdnedge.live/file/avple-images/hls/6256b304bd3519566877455c/playlist.m3u8
@@ -1103,7 +1103,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画09】_9527,#genre#
+【麻豆映画09】,#genre#
 01,https://d862cp.cdnedge.live/file/avple-images/hls/622fca68e14ae771445e4800/playlist.m3u8
 02,https://e2fa6.cdnedge.live/file/avple-images/hls/622fc8c1e14ae771445e47fd/playlist.m3u8
 03,https://8bb88.cdnedge.live/file/avple-images/hls/622fc84ae14ae771445e47fc/playlist.m3u8
@@ -1247,7 +1247,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画10】_9527,#genre#
+【麻豆映画10】,#genre#
 01,https://w9n76.cdnedge.live/file/avple-images/hls/6206efe3c6e4cd6e597c7185/playlist.m3u8
 02,https://je40u.cdnedge.live/file/avple-images/hls/6206efa6c6e4cd6e597c7184/playlist.m3u8
 03,https://u89ey.cdnedge.live/file/avple-images/hls/6205a47ad69d37216eb636de/playlist.m3u8
@@ -1377,7 +1377,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画11】_9527,#genre#
+【麻豆映画11】,#genre#
 01,https://10j99.cdnedge.live/file/avple-images/hls/61e11a91b12f2d3579c3423f/playlist.m3u8
 02,https://zo392.cdnedge.live/file/avple-images/hls/61e11965b12f2d3579c3423d/playlist.m3u8
 03,https://d862cp.cdnedge.live/file/avple-images/hls/61e11a19b12f2d3579c3423e/playlist.m3u8
@@ -1524,7 +1524,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画12】_9527,#genre#
+【麻豆映画12】,#genre#
 01,https://1xp60.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
 02,https://1xp60.cdnedge.live/file/avple-images/hls/61b817f997618e5cc644ad44/playlist.m3u8
 03,https://q2cyl7.cdnedge.live/file/avple-images/hls/61b8183597618e5cc644ad45/playlist.m3u8
@@ -1782,7 +1782,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画13】_9527,#genre#
+【麻豆映画13】,#genre#
 01,https://10j99.cdnedge.live/file/avple-images/hls/6171a981f8003d17dfd1a739/playlist.m3u8
 02,https://1xp60.cdnedge.live/file/avple-images/hls/6171a909f8003d17dfd1a738/playlist.m3u8
 03,https://je40u.cdnedge.live/file/avple-images/hls/6171a891f8003d17dfd1a737/playlist.m3u8
@@ -1800,7 +1800,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【麻豆映画14】_9527,#genre#
+【麻豆映画14】,#genre#
 02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
 04,https://47b61.cdnedge.live/file/avple-images/hls/6167163d51121708a790a1b7/playlist.m3u8
 06,https://47b61.cdnedge.live/file/avple-images/hls/6167160151121708a790a1b6/playlist.m3u8
@@ -1904,7 +1904,7 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 
 
 
-【日本AV】_9527,#genre#
+【日本AV】,#genre#
 性感按摩师,https://fc.imgscloud.com/e/cmmcpqeiqt/cmmcpqeiqt.m3u8
 小林初花,https://fc.imgscloud.com/e/gadthdaocc/gadthdaocc.m3u8
 北岛玲,https://fc.imgscloud.com/c/scblgkfaiw/scblgkfaiw.m3u8
@@ -1940,7 +1940,7 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 
 
 
-【一本道AV】_9527,#genre#
+【一本道AV】,#genre#
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 一本道720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
 一本道720P04,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
@@ -1992,7 +1992,7 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 
 
 
-【东热AV】_9527,#genre#
+【东热AV】,#genre#
 东热720P04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 东热720P05,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 东热720P06,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
@@ -2023,7 +2023,7 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 
 
 
-【欧美AV】_9527,#genre#
+【欧美AV】,#genre#
 女同性戀瑜伽課,http://6122.vod.redtraffic.xyz/ph5906b6976f9b1/play.m3u8
 硬粗暴的性行為和為壞女孩打屁股,http://60106.vod.redtraffic.xyz/ph573407f33f55b/play.m3u8
 英國成熟,http://13216.vod.adultiptv.net/ph569113e4da15c/play.m3u8
@@ -2537,7 +2537,7 @@ MOM金發碧眼的辦公室老闆很高興她在辦公室初中時被丈夫欺�
 
 
 
-🎎｜VIP高清秒播_9527,#genre#
+🎎｜VIP高清秒播,#genre#
 果冻传媒租房交易-刘玥,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4c4fd782/index.m3u8
 果冻传媒童顔女秘堕落日记-谢语彤,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed16b849/index.m3u8
 大学的性福生活-周卿卿,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
@@ -2690,7 +2690,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 
 
 
-🎎｜VIP直播资源_9527,#genre#
+🎎｜VIP直播资源,#genre#
 愛舞蹈室,https://video2.51daao.com/btt1/2021/01/20210113/bKtEK5Ws/index.m3u8
 拍攝現場,https://video2.51daao.com/btt1/2021/01/20210113/QPBIPcR1/index.m3u8
 姐姐的愛,https://video2.51daao.com/btt1/2021/01/20210113/WSpB6fLT/index.m3u8
@@ -2774,7 +2774,7 @@ Penelope Kay,https://lajiao-bo.com/20190521/kUHOfxa6/index.m3u8
 Alexis Crystal,https://video2.51daao.com/btt1/2021/07/20210710/MKOOj6YL/index.m3u8
 限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 
-🎎｜VIP直播资源3_9527,#genre#
+🎎｜VIP直播资源3,#genre#
 学院派女神性急在车上就脱裤搞起后入大屁股,http://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8
 中国女孩在监狱第4部分,http://13216.vod.redtraffic.xyz/ph57e3d9618a6bd/play.m3u8
 中国女孩的后台裸照,http://1244.vod.adultiptv.net/ph57c46d6c4cbde/play.m3u8
@@ -3323,7 +3323,7 @@ Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
 KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
 OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
 
-🎎｜VIP直播测试_9527,#genre#
+🎎｜VIP直播测试,#genre#
 18videoz-操他_我們去逛街�?,http://12204.vod.redtraffic.xyz/ph58ee00f21fb70/play.m3u8
 23分鐘�?29眼滾動高潮和40次累加載�?,http://10238.vod.redtraffic.xyz/ph597e34fc0c254/play.m3u8
 18 Years Old Tight Pussy Getting Fucked,http://12156.vod.redtraffic.xyz/ph5ad4e021dbc0a/play.m3u8
@@ -5220,7 +5220,7 @@ AV中有的姿势全部用上猛男全方位展示性爱技巧制服丝袜高跟
 16,https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
 
 
-🎎｜VIP高清秒播_9527,#genre#
+🎎｜VIP高清秒播,#genre#
 时长:40:51-91CM-243_肉食女神的旅拍淫记-高梨遥香,https://ss.rongliren.com/api/video/m3u8?id=12863&admin=1
 时长:42:15-91CM_241_网红中国零食初体验-小林纱织,https://ss.rongliren.com/api/video/m3u8?id=12829&admin=1
 时长:39:08-91CM-215_深夜约嫖美腿车模-叶柔,https://ss.rongliren.com/api/video/m3u8?id=12822&admin=1
@@ -5376,7 +5376,7 @@ AV中有的姿势全部用上猛男全方位展示性爱技巧制服丝袜高跟
 时长:55:13-空姐的兼职空姐模特入贼船-萧蔷,https://ss.rongliren.com/api/video/m3u8?id=8773&admin=1
 时长:55:48-卡在洗衣机的姐姐-杨柳,https://ss.rongliren.com/api/video/m3u8?id=8772&admin=1
 
-🎎｜VIP高清秒播2_9527,#genre#
+🎎｜VIP高清秒播2,#genre#
 时长:41:52-东京探花 邀请素人妹子 带口罩啪啪,https://ss.rongliren.com/api/video/m3u8?id=12213&admin=1
 时长:35:53-有点颜值E奶妹 自慰直播,https://ss.rongliren.com/api/video/m3u8?id=12212&admin=1
 时长:16:39-超高颜值白人 种族优势胸大 全身粉,https://ss.rongliren.com/api/video/m3u8?id=12211&admin=1
@@ -5443,7 +5443,7 @@ AV中有的姿势全部用上猛男全方位展示性爱技巧制服丝袜高跟
 时长:17:44-约操 有夫少妇 极品大奶,https://ss.rongliren.com/api/video/m3u8?id=11885&admin=1
 时长:20:36-勾搭良家少女下海,https://ss.rongliren.com/api/video/m3u8?id=11884&admin=1
 
-🎎｜VIP高清秒播3_9527,#genre#
+🎎｜VIP高清秒播3,#genre#
 时长:49:47-继父与我-谢语彤,https://ss.rongliren.com/api/video/m3u8?id=8770&admin=1
 时长:51:48-被下药的女儿-黄雪纯,https://ss.rongliren.com/api/video/m3u8?id=8769&admin=1
 时长:42:53-公公的特殊照顾-陈若瑶,https://ss.rongliren.com/api/video/m3u8?id=8768&admin=1
@@ -5559,7 +5559,7 @@ AV中有的姿势全部用上猛男全方位展示性爱技巧制服丝袜高跟
 时长:13:46-泰妹的圣诞诱惑,https://ss.rongliren.com/api/video/m3u8?id=5321&admin=1
 时长:08:03-格子裙大奶泰妹,https://ss.rongliren.com/api/video/m3u8?id=5320&admin=1
 
-🎎｜VIP高清秒播4_9527,#genre#
+🎎｜VIP高清秒播4,#genre#
 果冻传媒租房交易-刘玥,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4c4fd782/index.m3u8
 果冻传媒童顔女秘堕落日记-谢语彤,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed16b849/index.m3u8
 大学的性福生活-周卿卿,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
@@ -5712,7 +5712,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 
 
 
-杂交品种_9527,#genre#
+杂交品种,#genre#
 
 
 补最新麻豆02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
@@ -6918,7 +6918,7 @@ AV中有的姿势全部用上猛男全方位展示性爱技巧制服丝袜高跟
 老逗49,https://video2.51daao.com/btt1/2021/06/20210627/m9vbmIFA/index.m3u8
 老逗50,https://video2.51daao.com/btt1/2021/06/20210627/dOexpEj9/index.m3u8
 
-传媒_9527,#genre#
+传媒,#genre#
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
 老婆帮帮忙,https://0yefiks35y.motorjn.com/20230122/ivvwjXL8/index.m3u8
 高颜值萝莉,https://0yefiks35y.motorjn.com/20230122/Hlr1NECE/index.m3u8
@@ -6967,7 +6967,7 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 大长腿姐姐,https://0yefiks35y.motorjn.com/20220607/IxMyPZov/index.m3u8?300
 打工地方和人气,https://0yefiks35y.motorjn.com/20210908/niMxlGrg/index.m3u8?300
 我的女友被爸爸,https://0yefiks35y.motorjn.com/20210911/wLwa2lwq/index.m3u8?300
-经典_9527,#genre#
+经典,#genre#
 1,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
 2,https://t10.cdn2020.com:12335/video/m3u8/2021/08/23/67fed9f3/index.m3u8
 3,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/9331955b/index.m3u8
